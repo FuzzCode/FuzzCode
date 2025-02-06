@@ -1,7 +1,7 @@
 Hello there 👋
 
-- 🔭 I'm currently working on developing games in unity engine as a 3D Artist - Generalist
-- 🌱 I’m currently learning C#, .NET 
+- 🔭 I'm currently working on developing games in unity engine as a 3D Artist / Manual Tester
+- 🌱 I’m currently learning QA Testing with python
 - ⚡ Fun fact: In my free time i'm learning to play drums
 - 💬 Ask me about anything in DMs if you want more info about me
 - 📫 How to reach me: paw.wozniak710@gmail.com
